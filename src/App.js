@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import {useState} from 'react'
+
 import About from './Component/About'
 import Contact from './Component/Contact'
 import Home from './Component/Home'
